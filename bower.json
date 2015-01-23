@@ -1,0 +1,23 @@
+{
+  "name": "mobile",
+  "version": "0.0.0",
+  "authors": [
+    "sasingh4 <sanjay.singh.in@gmail.com>"
+  ],
+  "description": "Mobile application",
+  "license": "MIT",
+  "homepage": "http://smartappservices.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.10",
+    "angular-mocks": "~1.3.10"
+  }
+}
